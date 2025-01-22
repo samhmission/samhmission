@@ -1,16 +1,20 @@
-## Hi there 👋
+Hey! I'm @samhmission / @oopsallbugs (Sam Humphries) 👋
 
-<!--
-**samhmission/samhmission** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior software developer from New Zealand passionate about building impactful web applications and exploring innovative solutions. 🚀
 
-Here are some ideas to get you started:
+    🌱 Currently learning full-stack development at Mission Ready.
+    💡 Excited about problem-solving, creating user-friendly experiences, and collaborating on real-world projects
+    🛠️ Technologies I work with include React, Express, Node, MySQL, and MongoDB.
+    🎯 Always open to new opportunities to grow, collaborate, and create meaningful tech projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Find me here:
+
+    🌍 Portfolio/Website: oopsallbugs.github.io
+    💼 LinkedIn: linkedin.com/in/sam-humphries-972318294/
+    🐙 GitHub: @samhmission (you are here)
+
+Feel free to reach out or check out my repositories to see what I’m working on! 🎉
+
+
+
+
