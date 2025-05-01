@@ -11,7 +11,7 @@ I'm a junior software developer from New Zealand passionate about building impac
 
 ## 🔗 Find me here:
 
-- 🌍 **Portfolio/Website**: [oopsallbugs.github.io](https://oopsallbugs.github.io/)
+- 🌍 **Portfolio/Website**: [oopsallbugs.github.io](https://oopsallbugs.github.io/) (new website coming soon)
 - 💼 **LinkedIn**: [linkedin.com/in/sam-humphries](https://linkedin.com/in/sam-humphries-972318294/)
 - 🐙 **GitHub**: [@samhmission](https://github.com/samhmission) (you are here)
 
